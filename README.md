@@ -6,8 +6,6 @@ This repository contains the original whitepaper, authorship proof, and intellec
 > First Created: **June 16, 2025**  
 > Repository Published: **https://github.com/moonrunnerkc/recursive-ideology-systems**  
 > Legal Status: **ALL RIGHTS RESERVED**  
-> GPG Signature: `gpg-signature.asc`  
-> SHA256 Hash: [see `timestamp-hash.txt`]  
 > PDF Authorship Statement: `proof_of_authorship.pdf`
 
 ---
